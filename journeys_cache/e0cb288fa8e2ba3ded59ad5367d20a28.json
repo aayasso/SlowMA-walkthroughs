@@ -1,0 +1,98 @@
+{
+  "journey_id": "textile-eye-portal-2024",
+  "artwork": {
+    "title": null,
+    "artist": null,
+    "year": null,
+    "period": "Contemporary",
+    "style": "Mixed Media/Textile Art",
+    "medium": "Fabric, embroidery, tassels"
+  },
+  "image_filename": "Ashley-Cecil zynka copy.webp",
+  "total_steps": 4,
+  "estimated_duration_minutes": 4,
+  "steps": [
+    {
+      "step_number": 1,
+      "region": {
+        "x": 0.35,
+        "y": 0.15,
+        "width": 0.3,
+        "height": 0.35,
+        "importance": 10.0,
+        "title": "The Piercing Gaze",
+        "observation": "Notice how this single eye seems to look directly at you through a triangular window. The realistic painting contrasts dramatically with the rich purple fabric surrounding it.",
+        "why_notable": "This creates an intimate, almost unsettling connection - like being seen through a veil or mask.",
+        "soft_prompt": "What does it feel like to be watched by this solitary eye?",
+        "concept_tag": "subject"
+      },
+      "look_away_duration": 60,
+      "why_this_sequence": "The eye is the most striking element and creates immediate emotional connection",
+      "builds_on": null
+    },
+    {
+      "step_number": 2,
+      "region": {
+        "x": 0.0,
+        "y": 0.0,
+        "width": 1.0,
+        "height": 0.65,
+        "importance": 8.0,
+        "title": "Color as Emotion",
+        "observation": "See how this deep, rich purple dominates the upper portion - it's the color of mystery, royalty, and the mystical. Against it, the warm skin tones seem to glow.",
+        "why_notable": "Purple has been associated with the spiritual realm across cultures - this isn't just decoration, it's atmosphere.",
+        "soft_prompt": "How does this color make the space around the eye feel?",
+        "concept_tag": "color"
+      },
+      "look_away_duration": 45,
+      "why_this_sequence": "After connecting with the eye, we explore the emotional landscape created by color",
+      "builds_on": "The purple frame transforms our reading of the eye from portrait to portal"
+    },
+    {
+      "step_number": 3,
+      "region": {
+        "x": 0.0,
+        "y": 0.6,
+        "width": 1.0,
+        "height": 0.4,
+        "importance": 7.0,
+        "title": "Layers of Story",
+        "observation": "Notice how different fabrics and patterns layer together - metallic gold, burgundy trim, and delicate florals. Each material has its own history and texture.",
+        "why_notable": "Like a patchwork of memories, these fabrics suggest stories within stories, past lives of these materials.",
+        "soft_prompt": "What stories might these different fabrics have lived before coming together here?",
+        "concept_tag": "technique"
+      },
+      "look_away_duration": 50,
+      "why_this_sequence": "Now we examine the craft and materiality that grounds this mystical vision",
+      "builds_on": "The layered fabrics create earthly richness that contrasts with the spiritual purple above"
+    },
+    {
+      "step_number": 4,
+      "region": {
+        "x": 0.0,
+        "y": 0.85,
+        "width": 1.0,
+        "height": 0.15,
+        "importance": 6.0,
+        "title": "Finishing Touches",
+        "observation": "See those cream-colored tassels dancing along the bottom edge? They add movement and softness, like a gentle fringe that invites touch.",
+        "why_notable": "These tactile details remind us this isn't just an image to look at - it's a textile meant to be experienced.",
+        "soft_prompt": "How do these tassels change the feeling from formal artwork to intimate object?",
+        "concept_tag": "technique"
+      },
+      "look_away_duration": 35,
+      "why_this_sequence": "We end with the most tactile element, completing our journey from mystical to material",
+      "builds_on": "The tassels provide a gentle, welcoming counterpoint to the intensity of the watching eye"
+    }
+  ],
+  "welcome_text": "You're about to explore a piece that blends the mystical with the handmade. Take a deep breath and prepare to be watched as much as you're watching.",
+  "final_summary": {
+    "main_takeaway": "This piece transforms everyday textiles into something mystical - a portal where the spiritual and material worlds meet through craft.",
+    "connections": "The piercing eye draws you in, the purple creates sacred space, the layered fabrics ground it in human craft, and the tassels invite touch. Each element builds a bridge between the mystical and the intimate.",
+    "invitation_to_return": "Next time you see it, notice how your relationship with that watching eye has changed now that you know its textile secrets.",
+    "reflection_question": "What would it feel like to live with this eye watching over your daily life?"
+  },
+  "created_at": "2025-10-17T09:13:51.159651",
+  "confidence_score": 0.9,
+  "pedagogical_approach": "Emotional connection first, then material understanding - moving from mystical impact to craft appreciation"
+}

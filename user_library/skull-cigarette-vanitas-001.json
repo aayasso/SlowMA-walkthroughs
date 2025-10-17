@@ -1,0 +1,98 @@
+{
+  "journey_id": "skull-cigarette-vanitas-001",
+  "artwork": {
+    "title": "Skull of a Skeleton with Burning Cigarette",
+    "artist": "Vincent van Gogh",
+    "year": "1885-1886",
+    "period": "Post-Impressionism",
+    "style": "Academic study with expressive elements",
+    "medium": "Oil on canvas"
+  },
+  "image_filename": "VG_-_skeleton.jpg",
+  "total_steps": 4,
+  "estimated_duration_minutes": 4,
+  "steps": [
+    {
+      "step_number": 1,
+      "region": {
+        "x": 0.1,
+        "y": 0.15,
+        "width": 0.8,
+        "height": 0.6,
+        "importance": 9.0,
+        "title": "First Impression",
+        "observation": "Notice your immediate reaction to this image. A skeleton smoking feels both absurd and haunting - death engaging in a very human habit.",
+        "why_notable": "This juxtaposition creates dark humor while making us confront mortality in an unexpected way.",
+        "soft_prompt": "What emotions does this strange combination stir in you?",
+        "concept_tag": "subject"
+      },
+      "look_away_duration": 60,
+      "why_this_sequence": "Starting with emotional impact helps viewers engage before technical analysis",
+      "builds_on": null
+    },
+    {
+      "step_number": 2,
+      "region": {
+        "x": 0.65,
+        "y": 0.35,
+        "width": 0.25,
+        "height": 0.15,
+        "importance": 8.0,
+        "title": "The Glowing Cigarette",
+        "observation": "See how that tiny cigarette glows against the darkness? The bright ember and wisp of smoke are painted with surprising delicacy and attention.",
+        "why_notable": "Van Gogh treats this small detail with the same care as a flower - finding beauty in the macabre.",
+        "soft_prompt": "Notice how something so small can command your attention in this composition.",
+        "concept_tag": "light"
+      },
+      "look_away_duration": 45,
+      "why_this_sequence": "After the initial shock, we focus on technical skill in an unexpected detail",
+      "builds_on": "The absurd element from step 1 becomes a study in careful observation"
+    },
+    {
+      "step_number": 3,
+      "region": {
+        "x": 0.2,
+        "y": 0.2,
+        "width": 0.5,
+        "height": 0.5,
+        "importance": 10.0,
+        "title": "Studying Bone Structure",
+        "observation": "Look at how precisely van Gogh has painted these bones - every shadow, curve, and hollow. This isn't gothic fantasy but serious anatomical study.",
+        "why_notable": "Artists studied skeletons to understand the human form. Van Gogh is learning to paint life by painting death.",
+        "soft_prompt": "Can you see the careful observation behind what might seem like a morbid joke?",
+        "concept_tag": "technique"
+      },
+      "look_away_duration": 50,
+      "why_this_sequence": "Now we understand this as serious artistic training, not just dark humor",
+      "builds_on": "The careful attention to the cigarette reveals the same precision throughout"
+    },
+    {
+      "step_number": 4,
+      "region": {
+        "x": 0.0,
+        "y": 0.0,
+        "width": 1.0,
+        "height": 1.0,
+        "importance": 9.0,
+        "title": "Dark Background and Meaning",
+        "observation": "Notice how the deep black background makes the skull luminous, almost floating. This creates a 'vanitas' - art reminding us life is fleeting.",
+        "why_notable": "The dramatic contrast and memento mori theme connect to centuries of art about mortality and meaning.",
+        "soft_prompt": "How does this darkness change the way you see the skull's pale glow?",
+        "concept_tag": "symbolism"
+      },
+      "look_away_duration": 45,
+      "why_this_sequence": "Ending with the broader symbolic meaning and art historical context",
+      "builds_on": "The technical skill and careful observation serve this deeper meditation on mortality"
+    }
+  ],
+  "welcome_text": "You're about to spend time with one of van Gogh's most unusual paintings. Let's discover what lies beneath its dark humor and striking imagery.",
+  "final_summary": {
+    "main_takeaway": "What seemed like macabre humor reveals itself as serious artistic study - van Gogh learning to paint life by carefully observing death.",
+    "connections": "The glowing cigarette's careful rendering shows the same precision as the anatomical study, while the dramatic lighting transforms medical study into profound meditation on mortality.",
+    "invitation_to_return": "Next time, notice how van Gogh's brushstrokes bring personality even to bare bone - his unique style emerging even in academic exercise.",
+    "reflection_question": "How does adding humor to serious subjects change the way we engage with difficult topics?"
+  },
+  "created_at": "2025-10-17T08:38:36.429174",
+  "confidence_score": 0.92,
+  "pedagogical_approach": "Emotional hook to technical appreciation to historical context - showing how skill serves meaning in unexpected subjects"
+}

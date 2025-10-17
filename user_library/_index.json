@@ -1,0 +1,40 @@
+{
+  "journeys": [
+    {
+      "journey_id": "skull-cigarette-vanitas-001",
+      "image_filename": "VG_-_skeleton.jpg",
+      "title": "Skull of a Skeleton with Burning Cigarette",
+      "artist": "Vincent van Gogh",
+      "completed_at": "2025-10-17T08:38:36.438203",
+      "steps_count": 4,
+      "duration_minutes": 4
+    },
+    {
+      "journey_id": "prison-scene-contemplation-2024",
+      "image_filename": "Corey bonnet zynka copy.webp",
+      "title": "Untitled",
+      "artist": "Unknown Artist",
+      "completed_at": "2025-10-17T09:10:35.267383",
+      "steps_count": 5,
+      "duration_minutes": 4
+    },
+    {
+      "journey_id": "auto-generated",
+      "image_filename": "Corey bonnet zynka copy_visual.jpg",
+      "title": "Untitled",
+      "artist": "Unknown Artist",
+      "completed_at": "2025-10-17T09:12:56.583281",
+      "steps_count": 4,
+      "duration_minutes": 4
+    },
+    {
+      "journey_id": "textile-eye-portal-2024",
+      "image_filename": "Ashley-Cecil zynka copy.webp",
+      "title": "Untitled",
+      "artist": "Unknown Artist",
+      "completed_at": "2025-10-17T09:13:51.160879",
+      "steps_count": 4,
+      "duration_minutes": 4
+    }
+  ]
+}

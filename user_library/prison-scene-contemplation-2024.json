@@ -1,0 +1,116 @@
+{
+  "journey_id": "prison-scene-contemplation-2024",
+  "artwork": {
+    "title": null,
+    "artist": null,
+    "year": null,
+    "period": "Contemporary",
+    "style": "Expressionist",
+    "medium": "Mixed media on paper"
+  },
+  "image_filename": "Corey bonnet zynka copy.webp",
+  "total_steps": 5,
+  "estimated_duration_minutes": 4,
+  "steps": [
+    {
+      "step_number": 1,
+      "region": {
+        "x": 0.0,
+        "y": 0.0,
+        "width": 1.0,
+        "height": 1.0,
+        "importance": 9.0,
+        "title": "The Architecture of Confinement",
+        "observation": "Notice how the dark, heavy ceiling beams press down while small window openings pierce the walls like distant hopes. The space feels both massive and claustrophobic.",
+        "why_notable": "The architectural elements create psychological weight, making you feel the oppressive atmosphere.",
+        "soft_prompt": "What emotions does this enclosed space stir in you?",
+        "concept_tag": "composition"
+      },
+      "look_away_duration": 60,
+      "why_this_sequence": "Starting with the overall environment helps establish the emotional tone and context",
+      "builds_on": null
+    },
+    {
+      "step_number": 2,
+      "region": {
+        "x": 0.25,
+        "y": 0.3,
+        "width": 0.5,
+        "height": 0.5,
+        "importance": 10.0,
+        "title": "Figures in Motion",
+        "observation": "See how these ghostly figures seem to be moving through the space - some walking, others gesturing. Their bodies are translucent, overlapping, creating a sense of restless energy.",
+        "why_notable": "The transparent treatment suggests these might be memories, spirits, or the psychological presence of many who passed through.",
+        "soft_prompt": "Do these figures feel like real people or something more ethereal?",
+        "concept_tag": "technique"
+      },
+      "look_away_duration": 50,
+      "why_this_sequence": "After establishing the space, we focus on the human presence within it",
+      "builds_on": "The oppressive architecture now contains these moving spirits"
+    },
+    {
+      "step_number": 3,
+      "region": {
+        "x": 0.0,
+        "y": 0.4,
+        "width": 0.3,
+        "height": 0.4,
+        "importance": 8.0,
+        "title": "Windows to the World",
+        "observation": "Notice these small, barred openings that punctuate the dark walls. They're painted with lighter tones, suggesting precious glimpses of light and the outside world.",
+        "why_notable": "These tiny portals represent hope and connection to freedom, contrasting powerfully with the dark interior.",
+        "soft_prompt": "How do these small bright spaces change the feeling of the room?",
+        "concept_tag": "symbolism"
+      },
+      "look_away_duration": 45,
+      "why_this_sequence": "The windows provide contrast to the dark space and human figures, introducing themes of hope",
+      "builds_on": "These openings offer relief from the oppressive space where the figures move"
+    },
+    {
+      "step_number": 4,
+      "region": {
+        "x": 0.6,
+        "y": 0.2,
+        "width": 0.4,
+        "height": 0.6,
+        "importance": 9.0,
+        "title": "The Warm Figure",
+        "observation": "See this figure rendered in warm oranges and yellows, more solid and present than the others. They seem to be tending to or reaching toward something with deliberate care.",
+        "why_notable": "The warm colors and solidity suggest compassion, humanity, or perhaps a caregiver maintaining dignity in harsh conditions.",
+        "soft_prompt": "What story might this more vivid figure be telling?",
+        "concept_tag": "color"
+      },
+      "look_away_duration": 50,
+      "why_this_sequence": "This figure provides human warmth and agency, contrasting with the ghostly others",
+      "builds_on": "Among all the translucent figures, this one stands out as more present and caring"
+    },
+    {
+      "step_number": 5,
+      "region": {
+        "x": 0.1,
+        "y": 0.6,
+        "width": 0.8,
+        "height": 0.3,
+        "importance": 7.0,
+        "title": "Layered Memories",
+        "observation": "Look at how the paint layers build up - some areas scratched away, others built up thickly. The surface itself tells a story of time, erasure, and persistence.",
+        "why_notable": "The physical treatment of the medium mirrors the theme - layers of history, some hidden, some revealed.",
+        "soft_prompt": "How does the rough, built-up surface make the scene feel more real?",
+        "concept_tag": "technique"
+      },
+      "look_away_duration": 40,
+      "why_this_sequence": "Ending with technique shows how the artist's process reinforces the emotional content",
+      "builds_on": "The physical layers of paint echo the layers of memory and experience in this space"
+    }
+  ],
+  "welcome_text": "Let's explore this powerful scene together. Take your time - there are stories hidden in every corner, waiting for your careful attention.",
+  "final_summary": {
+    "main_takeaway": "This work transforms a harsh institutional space into something deeply human through ghostly figures, warm light, and layered paint that holds memory.",
+    "connections": "Notice how each element reinforced the others - the oppressive architecture, the moving spirits, the hopeful windows, the caring figure, and the scarred surface all work together to create a meditation on confinement, memory, and human dignity.",
+    "invitation_to_return": "When you look again, you might discover new figures moving through the space, or catch different emotions in their gestures.",
+    "reflection_question": "What does it mean to find humanity and hope in the most confining spaces?"
+  },
+  "created_at": "2025-10-17T09:10:35.265528",
+  "confidence_score": 0.85,
+  "pedagogical_approach": "Moved from environmental context to human presence to symbolic elements, building emotional understanding through careful observation of artistic choices."
+}

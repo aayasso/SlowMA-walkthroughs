@@ -1,0 +1,98 @@
+{
+  "journey_id": "auto-generated",
+  "artwork": {
+    "title": null,
+    "artist": null,
+    "year": null,
+    "period": "Contemporary",
+    "style": "Abstract/Expressionist",
+    "medium": "Mixed media on canvas"
+  },
+  "image_filename": "Corey bonnet zynka copy_visual.jpg",
+  "total_steps": 4,
+  "estimated_duration_minutes": 4,
+  "steps": [
+    {
+      "step_number": 1,
+      "region": {
+        "x": 0.0,
+        "y": 0.0,
+        "width": 1.0,
+        "height": 1.0,
+        "importance": 9.0,
+        "title": "A World in Layers",
+        "observation": "Notice how this painting feels like looking through multiple windows at once - colors bleeding through and overlapping, creating depth that seems to go on forever.",
+        "why_notable": "The layered transparency creates visual complexity that mirrors how we experience memory and emotion - not as single moments but as overlapping experiences.",
+        "soft_prompt": "What feeling does this layered, translucent quality evoke for you?",
+        "concept_tag": "composition"
+      },
+      "look_away_duration": 60,
+      "why_this_sequence": "Starting with overall impression helps viewers settle in and appreciate the work's fundamental character",
+      "builds_on": null
+    },
+    {
+      "step_number": 2,
+      "region": {
+        "x": 0.25,
+        "y": 0.25,
+        "width": 0.5,
+        "height": 0.4,
+        "importance": 8.0,
+        "title": "Ghostly Figures Emerge",
+        "observation": "See how human forms seem to materialize from the colored mists - like figures walking through fog, present but not quite solid.",
+        "why_notable": "The artist uses transparency to suggest rather than define, making these figures feel universal - they could be anyone, including us.",
+        "soft_prompt": "Do these figures feel like they're moving toward you or away?",
+        "concept_tag": "subject"
+      },
+      "look_away_duration": 45,
+      "why_this_sequence": "After grasping the overall effect, viewers can now focus on discovering the human elements within",
+      "builds_on": "The layered composition now reveals its hidden inhabitants"
+    },
+    {
+      "step_number": 3,
+      "region": {
+        "x": 0.6,
+        "y": 0.2,
+        "width": 0.35,
+        "height": 0.6,
+        "importance": 7.0,
+        "title": "Warm Light Breaking Through",
+        "observation": "Notice how golden yellow light seems to pour in from the right, warming everything it touches and creating a sense of hope or revelation.",
+        "why_notable": "This warm light acts like a beacon, suggesting emergence from darkness or confusion into clarity and understanding.",
+        "soft_prompt": "How does this golden area change the emotional temperature of the whole piece?",
+        "concept_tag": "light"
+      },
+      "look_away_duration": 40,
+      "why_this_sequence": "Having seen the figures, viewers can now appreciate how light gives them context and emotional meaning",
+      "builds_on": "The light illuminates and gives hope to the ghostly figures we discovered"
+    },
+    {
+      "step_number": 4,
+      "region": {
+        "x": 0.0,
+        "y": 0.35,
+        "width": 0.4,
+        "height": 0.5,
+        "importance": 8.0,
+        "title": "The Dance of Cool and Warm",
+        "observation": "See how the cool purples and blues on the left seem to pulse against the warm yellows - like a visual heartbeat between contemplation and energy.",
+        "why_notable": "This color dialogue creates emotional rhythm, suggesting the constant interplay between different states of being - reflection and action, calm and excitement.",
+        "soft_prompt": "Which color area draws you more strongly, and what might that say about your current mood?",
+        "concept_tag": "color"
+      },
+      "look_away_duration": 45,
+      "why_this_sequence": "Ending with color relationships ties together all previous observations and adds emotional resonance",
+      "builds_on": "The color contrast amplifies the journey from the mysterious figures toward the hopeful light"
+    }
+  ],
+  "welcome_text": "Let's take a mindful journey through this layered world of color and form. Allow your eyes to wander and discover what emerges from these translucent veils of paint.",
+  "final_summary": {
+    "main_takeaway": "This painting transforms the simple act of looking into an experience of discovery - figures emerge, light breaks through, and colors create emotional rhythms that mirror our inner lives.",
+    "connections": "Each element builds on the others: the layered composition reveals hidden figures, warm light gives them hope and direction, while the color dialogue creates the emotional heartbeat that brings it all to life.",
+    "invitation_to_return": "Come back to this piece another day - like looking through fog, you might discover entirely new figures and feelings waiting to emerge.",
+    "reflection_question": "What personal memories or feelings surfaced as you watched these forms emerge and dissolve?"
+  },
+  "created_at": "2025-10-17T09:12:56.580720",
+  "confidence_score": 0.85,
+  "pedagogical_approach": "Guided discovery through layered observation - from overall impression to specific elements, building emotional and visual literacy through accessible metaphors"
+}
